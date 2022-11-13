@@ -53,7 +53,7 @@ syntax:
   - id: emoji-sc
     available: y
   - id: highlight
-    available: n
+    available: y
   - id: subscript
     available: n
   - id: superscript
